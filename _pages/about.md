@@ -20,14 +20,21 @@ I am particularly interested in building reliable, interpretable, and physiologi
 - Biomedical Data Science & Clinical Informatics
 - Explainable and Trustworthy AI
 
-### Education
+## Education
 
-- M.S. in Biomedical Engineering — AI Track
-Carnegie Mellon University
+- PhD in Biomedical Engineering 
+Carnegie Mellon University (incoming 2027)
 
-- B.S. in Computer Engineering
-Chiang Mai University
+- M.S. in Biomedical Engineering — AI Track 
+Carnegie Mellon University (2024-2025)
 
-Big thanks!
-------
-More info about contributing to Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/).
+- B.S. in Computer Engineering 
+Chiang Mai University (2019-2023)
+
+## Publication
+**WoundSeg: AI-Powered Analysis for Wound Healing Assays**
+
+K. Takham, T. Korpanitchkul, K. Kunchana, T. Unjitwattana, C. Manaspon and P. Mekrattanachai,2026 18th Biomedical Engineering International Conference (BMEiCON), Fukuoka, Japan, 2026, pp. 1-5, doi: 10.1109/BMEiCON70815.2026.11773018.
+
+
+Powered by [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
